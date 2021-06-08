@@ -13,5 +13,5 @@
 
 sudo id for admin access
 
-#Installing nginx
+# Installing nginx
 'sudo apt-get install nginx' installs nginx
